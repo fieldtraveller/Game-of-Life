@@ -24,7 +24,4 @@
  words, each generation is a pure function of the preceding one). The rules 
  continue to be applied repeatedly to create further generations.
 
- Options
-
- Press Any Key.
  
